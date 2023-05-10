@@ -53,5 +53,5 @@ Hello there, I'm <a href="https://www.linkedin.com/in/rohansanthosh" target="_bl
 <a href="https://auth.geeksforgeeks.org/user/rohansanva8p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rohansanva8p" height="30" width="40" /></a>
 </p>
 <br>
-
+<p align="center"> <a href="https://github.com/rohan-san?tab=followers" target="blank"><img align="center" src="https://img.shields.io/github/followers/rohan-san.svg?style=social&label=Follow"/></a> </p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=rohan-san&label=Visitors&color=bd33f0&style=plastic" alt="rohan-san"/> </p>
