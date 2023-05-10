@@ -1,4 +1,4 @@
-![](https://cdn.pixabay.com/photo/2016/07/30/19/47/banner-1557841__340.jpg)
+![](https://raw.githubusercontent.com/Rohan-San/Rohan-San/main/Rohan%20Banner.png)
 
 <h1 align="center">
 Hello there, I'm <a href="https://www.linkedin.com/in/rohansanthosh" target="_blank"> Rohan</a>! <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">
