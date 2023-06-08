@@ -3,7 +3,7 @@
 <h1 align="center">
 Hello there, I'm <a href="https://www.linkedin.com/in/rohansanthosh" target="_blank"> Rohan</a>! <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">
 </h1>
-<h3 align="center">An aspiring developer and wannabe musician!</h3>
+<h3 align="center">An aspiring developer and musician!</h3>
 
 - 🌱 I’m currently learning **JavaScript and Guitar**.
 
