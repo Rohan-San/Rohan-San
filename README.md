@@ -5,7 +5,7 @@ Hello there, I'm <a href="https://www.linkedin.com/in/rohansanthosh" target="_bl
 </h1>
 <h3 align="center">An aspiring developer and musician!</h3>
 
-- 🌱 I’m currently learning **JavaScript and Guitar**.
+- 🌱 I’m currently learning **JavaScript**.
 
 - 📫 Reach me at **rohansanthosh02@gmail.com**
 
