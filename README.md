@@ -10,6 +10,8 @@ Hello there, I'm <a href="https://www.linkedin.com/in/rohansanthosh" target="_bl
 - 📫 Reach me at **rohansanthosh02@gmail.com**
 
 - ⚡ Fun fact: **I'm a procrastinator who gets stuff done, and done well.**
+
+- 🎓 Campus Ambassador [@web3onwards](https://web3onwards.com/)
 <br>
 
 <h2 align="center">📊 Stats & Trophies 🏆</h2>
