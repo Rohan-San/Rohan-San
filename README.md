@@ -3,7 +3,7 @@
 <h1 align="center">
 Hello there, I'm <a href="https://www.linkedin.com/in/rohansanthosh" target="_blank"> Rohan</a>! <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">
 </h1>
-<h3 align="center">An aspiring developer and musician!</h3>
+<h3 align = "center">An aspiring developer and musician!</h3>
 
 - 🌱 I’m currently learning **JavaScript & Blockchain**.
 
@@ -12,6 +12,10 @@ Hello there, I'm <a href="https://www.linkedin.com/in/rohansanthosh" target="_bl
 - ⚡ Fun fact: **I'm a procrastinator who gets stuff done, and done well.**
 
 - 📫 Reach me at **rohansanthosh02@gmail.com**
+
+> I'm a dedicated learner passionate about technology and making a positive impact on society. Having held multiple leadership roles, I represented my peers and actively engaged in college societies, volunteering, and organizing events such as hackathons and treasure hunts. Being a technophile, I aim to contribute to technological advancements. When not immersed in tech, I enjoy playing the guitar and making music. I bring coordination and ethical responsibility to any team or organization. <br><br>
+> I do fairly decent graphic designing too. <br> P.S. I made that banner GIF myself! ;)
+
 <br>
 
 <h2 align="center">📊 Stats & Trophies 🏆</h2>
@@ -39,6 +43,7 @@ Hello there, I'm <a href="https://www.linkedin.com/in/rohansanthosh" target="_bl
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+<a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
@@ -51,7 +56,6 @@ Hello there, I'm <a href="https://www.linkedin.com/in/rohansanthosh" target="_bl
 <a href="https://linkedin.com/in/rohansanthosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohansanthosh" height="30" width="40" /></a>
 <a href="https://instagram.com/rosa_nahor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rosa_nahor" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rohansanthosh02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rohansanthosh02" height="30" width="40" /></a>
-<a href="https://tryhackme.com/profile" target="blank"><img align="center" src="https://tryhackme.com/img/logo/thm_logo_circle.png" alt="rohansanthosh02" height="30"/></a>
 <a href="https://stackoverflow.com/users/17571594" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17571594" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rohansanthosh" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="rohansanthosh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rohan-san" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohan-san" height="30" width="40" /></a>
