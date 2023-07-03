@@ -13,7 +13,7 @@ Hello there, I'm <a href="https://www.linkedin.com/in/rohansanthosh" target="_bl
 
 - 📫 Reach me at **rohansanthosh02@gmail.com**
 
-> I'm a dedicated learner passionate about technology and making a positive impact on society. Having held multiple leadership roles, I represented my peers and actively engaged in college societies, volunteering, and organizing events such as hackathons and treasure hunts. Being a technophile, I aim to contribute to technological advancements. When not immersed in tech, I enjoy playing the guitar and making music. I bring coordination and ethical responsibility to any team or organization. <br><br>
+> I'm a keen learner passionate about technology and making a positive impact on society. Being a technophile, I aim to contribute to technological advancements. When not immersed in tech, I enjoy playing the guitar and making music. <br><br>
 > I do fairly decent graphic designing too. <br> P.S. I made that banner GIF myself! ;)
 
 <br>
