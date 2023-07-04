@@ -21,11 +21,11 @@ Hello there, I'm <a href="https://www.linkedin.com/in/rohansanthosh" target="_bl
 <h2 align="center">📊 Stats & Trophies 🏆</h2>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rohan-san&rank_icon=github&show_icons=true&theme=aura&show=reviews&include_all_commits=true&locale=en&hide_border=true" alt="rohan-san"/></p>
+  <img align="center" src="https://github-readme-stats-rohan-san.vercel.app/api?username=rohan-san&rank_icon=github&show_icons=true&theme=aura&show=reviews&include_all_commits=true&locale=en&hide_border=true" alt="rohan-san"/></p>
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-san&theme=aura&hide_border=true" alt="rohan-san" /></p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-san&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=donut" alt="rohan-san" /></p>
+  <img align="center" src="https://github-readme-stats-rohan-san.vercel.app/api/top-langs/?username=rohan-san&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=donut" alt="rohan-san" /></p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rohan-san&column=4&margin-w=15&margin-h=15&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="rohan-san" /></p>
 <br>
