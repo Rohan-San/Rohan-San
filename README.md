@@ -7,7 +7,7 @@ Hello there, I'm <a href="https://www.linkedin.com/in/rohansanthosh" target="_bl
 
 - 🌱 I’m currently learning **JavaScript & Blockchain**.
 
-- 🎓 Campus Ambassador [@web3onwards](https://web3onwards.com/)
+- 🎓 Campus Ambassador ***[@web3onwards](https://web3onwards.com/)***
 
 - ⚡ Fun fact: **I'm a procrastinator who gets stuff done, and done well.**
 
