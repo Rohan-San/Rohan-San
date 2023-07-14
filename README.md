@@ -30,7 +30,7 @@ Hello there, I'm <a href="https://www.linkedin.com/in/rohansanthosh" target="_bl
   <img src="https://github-profile-trophy.vercel.app/?username=rohan-san&column=4&margin-w=15&margin-h=15&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="rohan-san" /></p>
 <br>
 
-<h2 align="center">Languages and Tools:</h2>
+<h2 align="center">Favourite Languages and Tools:</h2>
 
 <p align="center">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
