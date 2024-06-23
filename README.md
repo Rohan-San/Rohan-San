@@ -9,13 +9,13 @@ Hello there, I'm <a href="https://www.linkedin.com/in/rohansanthosh" target="_bl
 
 - 🎓 Campus Ambassador ***[@web3onwards](https://web3onwards.com/)***
 
-- ⚡ Fun fact: **I'm a procrastinator who gets stuff done, and done well.**
+[comment]: # (- ⚡ Fun fact: **I'm a procrastinator who gets stuff done, and done well.**)
 
 - 📫 Reach me at **rohansanthosh02@gmail.com**
 
-- 🎥 Click for my  **[video editing](https://drive.google.com/drive/u/1/folders/1T8LCSsPrt1icF1NMp3-5BWZbFW0s7rD2)** projects!
+<!--- - 🎥 Click for my  **[video editing](https://drive.google.com/drive/u/1/folders/1T8LCSsPrt1icF1NMp3-5BWZbFW0s7rD2)** projects! -->
 
-> I'm a keen learner passionate about technology and making a positive impact on society. Being a technophile, I aim to contribute to technological advancements. When not immersed in tech, I enjoy playing the guitar and making music. <br><br>
+> I'm a keen learner passionate about technology and making a positive impact on society. Being a technophile, I aim to contribute to technological advancements. <br><br>
 > I do fairly decent graphic designing too. <br> P.S. I made that banner GIF myself! ;)
 
 <br>
